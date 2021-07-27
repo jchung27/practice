@@ -1,1 +1,2 @@
-#This is a practice Python
+#This is a practice Python with turtle
+import turtle
